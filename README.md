@@ -43,6 +43,3 @@ pip install -r requirements.txt
 # Run the app
 python app.py
 ```
-
-├── requirements.txt         # Dependencies
-└── README.md                # Project overview
