@@ -6,7 +6,7 @@ A high-accuracy deep learning model built using **TensorFlow** to classify image
 
 ## 🚀 Live Demo
 
-🎯 Try it out on [Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME)
+🎯 Try it out on [Hugging Face Spaces](https://huggingface.co/spaces/Sarthaknarula/DogvsCatClassifier)
 
 ---
 
