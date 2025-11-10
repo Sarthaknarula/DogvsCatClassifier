@@ -16,7 +16,7 @@ A high-accuracy deep learning model built using **TensorFlow** to classify image
 - 🧠 **Model**: Custom Convolutional Neural Network (CNN)
 - 🖼️ **Input Size**: 256x256 RGB images
 - 🧪 **Framework**: TensorFlow / Keras
-- 📊 **Dataset**: 10,000+ labeled images of dogs and cats
+- 📊 **Dataset**: 1k+ labeled images of dogs and cats
 - ⚡ **Deployed with**: Gradio on Hugging Face Spaces
 
 ---
