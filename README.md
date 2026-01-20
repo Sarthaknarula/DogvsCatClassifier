@@ -1,6 +1,6 @@
 # 🐶🐱 Dog vs Cat Image Classifier
 
-A high-accuracy deep learning model built using **TensorFlow** to classify images as **Dog** or **Cat**. Achieves **over 95% accuracy** on a dataset of 10,000+ images using a custom **Convolutional Neural Network (CNN)**.
+A high-accuracy deep learning model built using **TensorFlow** to classify images as **Dog** or **Cat**. Achieves **over 95% accuracy** on a dataset of 1k+ images using a custom **Convolutional Neural Network (CNN)**.
 
 ---
 
